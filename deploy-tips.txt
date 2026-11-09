@@ -1,0 +1,1 @@
+Always verify environment variable configurations before running database migrations in production.
